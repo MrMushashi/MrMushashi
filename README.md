@@ -29,7 +29,7 @@ I'm a student from India who likes understanding how systems break so I can buil
 - Practising security through research and write-ups
 
 ## Projects
-- A Self Improvement Habit tracker for Students/Individuals. [Click here][https://github.com/vedwebsites-eng/AETHOSGAMMA]
-- A No Distraction Code editor for better documentaries and case studies. [Click here][https://github.com/vedwebsites-eng/INKWELL]
+- A Self Improvement Habit tracker for Students/Individuals. [Click here](https://github.com/vedwebsites-eng/AETHOSGAMMA)
+- A No Distraction Code editor for better documentaries and case studies. [Click here](https://github.com/vedwebsites-eng/INKWELL)
 
 <sub>The bat emblem is an original drawing, not a trademarked logo.</sub>
