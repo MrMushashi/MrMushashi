@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="why do we fall? so we can learn to pick ourselves up" width="100%">
 
-# Vedant Sattegiri Patil · VEX
+# Vedant Sattegiri Patil 
 
 **Student builder · cybersecurity · web development · AI/ML**
 
