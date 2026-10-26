@@ -28,10 +28,8 @@ I'm a student from India who likes understanding how systems break so I can buil
 - Learning more about RL and neural network design
 - Practising security through research and write-ups
 
-## Interactive version
-
-`index.html` in this repo is the same banner drawn on a canvas. Move the cursor over it to scatter the dots, or switch to **1 0** to see it as binary. Enable GitHub Pages (Settings → Pages → deploy from `main`) to host it.
-
----
+## Projects
+- A Self Improvement Habit tracker for Students/Individuals. [Click here][https://github.com/vedwebsites-eng/AETHOSGAMMA]
+- A No Distraction Code editor for better documentaries and case studies. [Click here][https://github.com/vedwebsites-eng/INKWELL]
 
 <sub>The bat emblem is an original drawing, not a trademarked logo.</sub>
