@@ -90,6 +90,8 @@ Cracked it? Say hi through my [portfolio](https://vedantbuilds.vercel.app).
 
 *Fall. Learn. Rise. Repeat.*
 
-<sub>The bat emblem is an original drawing, not a trademarked logo.</sub>
+<div align="left"
+
+<sub>*The bat emblem is an original drawing, not a trademarked logo.</sub>
 
 </div>
